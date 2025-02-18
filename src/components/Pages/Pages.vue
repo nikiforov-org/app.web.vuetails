@@ -1,4 +1,6 @@
-<template>Pages</template>
+<template>
+  <!-- ContentPage или NotFoundPage -->
+</template>
 
 <style scoped lang="scss">
   .Pages {
