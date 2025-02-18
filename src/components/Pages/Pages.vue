@@ -1,0 +1,14 @@
+<template>Pages</template>
+
+<style scoped lang="scss">
+  .Pages {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    background-color: #ddd;
+
+    @media (min-width: 1024px) {
+      width: calc(100% - 320px);
+    }
+  }
+</style>
